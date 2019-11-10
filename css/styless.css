@@ -127,6 +127,11 @@ h1{
     margin:1em auto;
 
   }
+    
+  .footer{
+  font-size: 18px;
+  }
+      
   img {
     width: 100%; /* need to overwrite inline dimensions */
     height: 250px;
