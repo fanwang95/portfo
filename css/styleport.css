@@ -166,6 +166,9 @@ h1{
   .row > .column {
     padding: 8px;
   }
+.footer{
+    font-size: 14px;
+  }
 }
 
 @media only screen and (min-width: 760px) and (max-width: 1030px) and (orientation: landscape){
